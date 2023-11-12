@@ -1,3 +1,8 @@
+## Integrantes:
+Naomi Lara
+Hector Aragón
+Jorge Yxcot
+
 # Proyecto1
 Preng Y Gladys; es necesario instalar las siguientes bibliotecas de Python:
 
