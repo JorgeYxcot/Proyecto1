@@ -1,5 +1,5 @@
 # Proyecto1
-Preng Y Gladys; es necesari instalar las siguientes bibliotecas de Python:
+Preng Y Gladys; es necesario instalar las siguientes bibliotecas de Python:
 
 Streamlit: Es un framework de código abierto para crear aplicaciones web de ciencia de datos y machine learning. Puedes instalarlo con el comando pip install streamlit.
 
