@@ -1,6 +1,6 @@
 ## Integrantes:
-Naomi Lara
-Hector Aragón
+Naomi Lara //
+Hector Aragón //
 Jorge Yxcot
 
 # Proyecto1
